@@ -118,33 +118,7 @@ This section evaluates overall business revenue performance.
 
 ### 📌 Revenue Dashboard
 
-![Revenue KPI](images/revenue-kpi.png)
-
-📌 *[Insert KPI Card: Total Revenue]*
-
----
-
-![Revenue by Month](images/revenue-by-month.png)
-
-📌 *[Insert Line Chart: Revenue by Month]*
-
----
-
-![Revenue Growth Rate](images/revenue-growth-rate.png)
-
-📌 *[Insert Combo Chart: Revenue Growth Rate by Month]*
-
----
-
-![Revenue by Gender](images/revenue-by-gender.png)
-
-📌 *[Insert Donut Chart: Revenue by Gender]*
-
----
-
-![Revenue by Customer Type](images/revenue-by-customer-type.png)
-
-📌 *[Insert Donut Chart: Revenue by Customer Type]*
+![Revenue Dashboard](images/revenue-dashboard.png)
 
 ---
 
@@ -162,33 +136,7 @@ This section analyzes transaction behavior and purchasing value.
 
 ### 📌 Invoice & AOV Dashboard
 
-![Invoice KPI](images/invoice-kpi.png)
-
-📌 *[Insert KPI Card: Total Invoice]*
-
----
-
-![Invoice by Month](images/invoice-by-month.png)
-
-📌 *[Insert Column Chart: Invoice by Month]*
-
----
-
-![AOV by Gender](images/aov-by-gender.png)
-
-📌 *[Insert Combo Chart: Invoice & AOV by Gender]*
-
----
-
-![AOV by Customer Type](images/aov-by-customer-type.png)
-
-📌 *[Insert Combo Chart: Invoice & AOV by Customer Type]*
-
----
-
-![AOV by Month](images/aov-by-month.png)
-
-📌 *[Insert Line Chart: Average Order Value by Month]*
+![Invoice & AOV Dashboard](images/invoice-dashboard.png)
 
 ---
 
@@ -206,27 +154,7 @@ This section focuses on purchasing quantity behavior.
 
 ### 📌 Quantity Dashboard
 
-![Quantity KPI](images/quantity-kpi.png)
-
-📌 *[Insert KPI Card: Total Quantity]*
-
----
-
-![Quantity by Gender](images/quantity-by-gender.png)
-
-📌 *[Insert Table or Card: Quantity by Gender]*
-
----
-
-![Quantity by Customer Type](images/quantity-by-customer-type.png)
-
-📌 *[Insert Table: Quantity by Customer Type]*
-
----
-
-![AQI by Month](images/aqi-by-month.png)
-
-📌 *[Insert Chart: AQI by Month]*
+![Quantity dashboard](images/quantity-dashboard.png)
 
 ---
 
@@ -244,27 +172,7 @@ This section analyzes customer payment preferences and spending behavior.
 
 ### 📌 Payment Dashboard
 
-![Invoice by Payment](images/invoice-by-payment.png)
-
-📌 *[Insert Donut Chart: Invoice by Payment]*
-
----
-
-![Revenue Percentage by Payment](images/revenue-percentage-payment.png)
-
-📌 *[Insert Donut Chart: Revenue Percentage by Payment]*
-
----
-
-![AOV by Payment](images/aov-by-payment.png)
-
-📌 *[Insert Combo Chart: AOV by Payment]*
-
----
-
-![Revenue by Payment](images/revenue-by-payment.png)
-
-📌 *[Insert Bar Chart: Revenue by Payment]*
+![Payment dashboard](images/payment-dashboard.png)
 
 ---
 
@@ -282,21 +190,7 @@ This section evaluates product performance and customer satisfaction.
 
 ### 📌 Product Line Dashboard
 
-![Revenue & Rating](images/revenue-rating-product-line.png)
-
-📌 *[Insert Combo Chart: Revenue & Rating by Product Line]*
-
----
-
-![Revenue & Invoice](images/revenue-invoice-product-line.png)
-
-📌 *[Insert Combo Chart: Revenue & Invoice by Product Line]*
-
----
-
-![Invoice & AOV](images/invoice-aov-product-line.png)
-
-📌 *[Insert Combo Chart: Invoice & AOV by Product Line]*
+![Product Line Dashboard](images/product-line-dashboard.png)
 
 ---
 
@@ -322,33 +216,7 @@ This section evaluates operational performance across branches.
 
 ### 📌 Branch Dashboard
 
-![Revenue by Branch](images/revenue-by-branch.png)
-
-📌 *[Insert Bar Chart: Revenue by Branch]*
-
----
-
-![Invoice by Branch](images/invoice-by-branch.png)
-
-📌 *[Insert Donut Chart: Invoice by Branch]*
-
----
-
-![Quantity by Branch](images/quantity-by-branch.png)
-
-📌 *[Insert Donut Chart: Quantity by Branch]*
-
----
-
-![Revenue & AOV by Branch](images/revenue-aov-branch.png)
-
-📌 *[Insert Combo Chart: Revenue & AOV by Branch]*
-
----
-
-![Average Rating by Branch](images/rating-by-branch.png)
-
-📌 *[Insert Table or Bar Chart: Average Rating by Branch]*
+![Branch dashboard](images/branch-dashboard.png)
 
 ---
 
