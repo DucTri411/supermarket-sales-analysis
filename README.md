@@ -86,37 +86,6 @@ Purpose:
 
 ---
 
-### 📦 Quantity (Area)
-
-Quantity values were adjusted based on branch area:
-
-| Area | Quantity Adjustment |
-|---|---|
-| Thu Duc | +6 |
-| District 7 | +4 |
-| District 10 | +2 |
-
-Purpose:
-- Simulate branch purchasing differences
-- Support branch-level quantity analysis
-
----
-
-### 🛍 Quantity Extended
-
-Additional quantity adjustments based on gender:
-
-| Gender | Adjustment |
-|---|---|
-| Female | +7 |
-| Male | -1 |
-
-Purpose:
-- Simulate differentiated purchasing behavior
-- Support AOV and quantity analysis
-
----
-
 # 📊 Key KPIs
 
 | KPI | Description |
