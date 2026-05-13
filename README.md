@@ -278,5 +278,5 @@ Some product lines generate strong revenue but weaker customer satisfaction.
 ---
 
 # 👤 Author
-Full name: Nguyen Le Duc Tri
+Full name: Nguyen Le Duc Tri  
 Role: Data Analyst
