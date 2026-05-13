@@ -216,7 +216,7 @@ This section evaluates operational performance across branches.
 
 ### 📌 Branch Dashboard
 
-![Branch dashboard](images/branch-dashboard.png)
+![Branch dashboard](images/branch-performance-dashboard.png)
 
 ---
 
