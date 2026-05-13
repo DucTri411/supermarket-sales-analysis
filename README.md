@@ -404,22 +404,8 @@ Some product lines generate strong revenue but weaker customer satisfaction.
 
 # 🛠 Tools Used
 
-- Power BI
-- Power Query
-- DAX
-- Excel
-- Data Visualization
-- Business Analytics
-
----
-
-# 📁 Repository Structure
-
-/data  
-/dashboard  
-/images  
-/docs  
-README.md
+- SQL / Excel (data cleaning & preparation)
+- Power BI (data visualization & dashboard)
 
 ---
 
